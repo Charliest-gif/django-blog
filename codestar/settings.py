@@ -33,6 +33,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1', 
     'localhost', 
     '.herokuapp.com',
+    'codestar-blog-cstci-967f16e61afc.herokuapp.com',
     ]
 
 # Application definition
